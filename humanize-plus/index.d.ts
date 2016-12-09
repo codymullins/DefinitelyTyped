@@ -1,6 +1,7 @@
 // Type definitions for Humanize Plus v1.8.2
 // Project: https://github.com/HubSpot/humanize
-// Definitions by: Cody Mullins https://github.com/codymullins
+// Definitions by: Cody Mullins <https://github.com/codymullins>
+// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 declare namespace Humanize {
 
